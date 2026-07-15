@@ -1,12 +1,8 @@
 # financeiro-estudos-notebooklm
 
-# Educação Financeira e Fundamentos do Sistema Financeiro
+# Conceitos Financeiros
 
-Este projeto tem como objetivo reunir e organizar conteúdos essenciais sobre educação financeira, proporcionando uma base sólida para estudantes, profissionais e qualquer pessoa interessada em desenvolver conhecimentos financeiros.
-
-Ao longo deste material, serão abordados temas fundamentais como matemática básica aplicada às finanças, conceitos do sistema financeiro, investimentos, crédito e endividamento, contabilidade básica, finanças empresariais e mercado financeiro.
-
-O conteúdo foi estruturado e complementado com o apoio do NotebookLM, permitindo uma abordagem mais organizada para estudos, pesquisas e futuras consultas. O propósito é facilitar a compreensão dos principais conceitos financeiros, auxiliando na tomada de decisões conscientes e no desenvolvimento de habilidades para o planejamento financeiro pessoal e empresarial.
+As fontes exploradas abordam os pilares da **gestão financeira**, conectando fundamentos teóricos da **contabilidade** com estratégias práticas de **organização pessoal**. Os textos detalham conceitos essenciais como **juros**, **fluxo de caixa** e **balanço patrimonial**, além de oferecerem orientações sobre o controle do **endividamento** e a priorização entre quitar débitos ou investir. Métodos de aprendizado e estudo, como a **Técnica Feynman** e sistemas de **anotações estruturadas**, são apresentados como ferramentas para dominar esses temas complexos com maior agilidade. O conjunto dos materiais enfatiza que o sucesso financeiro depende da união entre **conhecimento técnico**, planejamento rigoroso e o uso estratégico da **tecnologia**.
 
 ## Temas Abordados
 
