@@ -25,7 +25,8 @@ O conteúdo foi estruturado e complementado com o apoio do NotebookLM, permitind
 
 Promover o aprendizado dos conceitos fundamentais das finanças, fornecendo conhecimento teórico e prático para compreender o funcionamento do dinheiro, dos investimentos, das empresas e do mercado financeiro, contribuindo para uma melhor gestão financeira e para decisões mais estratégicas no dia a dia.
 
-As fontes de referncias são:
+## As fontes de referncias são:
+
 https://fia.com.br/blog/educacao-financeira/
 https://www.todamateria.com.br/matematica-financeira-conceitos-formulas/
 https://www.gov.br/investidor/pt-br/investir/como-investir/conheca-o-mercado-de-capitais/funcionamento-do-sistema-financeiro-nacional
