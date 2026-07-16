@@ -141,28 +141,51 @@ Controle do endividamento.
 
 O objetivo final é alcançar estabilidade financeira, segurança diante de imprevistos e independência financeira no longo prazo.
 
-##Glossário de Conceitos
+##Glossário de Conceitos 
 
-Ativo	                           Conjunto de bens e direitos.
-Passivo	                         Conjunto de obrigações e dívidas.
-Patrimônio Líquido	             Diferença entre ativos e passivos.
-Capital	                         Valor inicial de um investimento.
-Juros	                           Remuneração do capital ao longo do tempo.
-Montante	                       Capital acrescido dos juros.
-Selic	                           Taxa básica de juros da economia.
-CDI	                             Taxa de referência para investimentos de renda fixa.
-IPCA	                           Índice oficial de inflação do Brasil.
-CDB	                             Título emitido por bancos para captação de recursos.
-FGC	                             Fundo Garantidor de Créditos.
-ETF	                             Fundo negociado em bolsa que replica um índice.
-FII	                             Fundo de Investimento Imobiliário.
-Dividendos	                     Distribuição de lucros aos investidores.
-BDR	                             Certificado que representa ações estrangeiras negociadas no Brasil.
-Liquidez	                       Facilidade de transformar um ativo em dinheiro.
-Rating	                         Nota de risco atribuída a emissores de títulos.
-Fluxo de Caixa	                 Controle das entradas e saídas financeiras.
-Reserva de Emergência	           Recurso destinado a imprevistos financeiros.
-Endividamento	                   Relação entre dívidas e capacidade financeira.
+| Termo                                           | Definição                                                                                                                      |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Ativo**                                       | Conjunto de bens e direitos que possuem valor econômico, como dinheiro, imóveis, veículos e investimentos.                     |
+| **Passivo**                                     | Conjunto de obrigações e dívidas financeiras de uma pessoa ou empresa.                                                         |
+| **Patrimônio Líquido**                          | Resultado da diferença entre Ativos e Passivos. Representa a riqueza real de uma pessoa ou organização.                        |
+| **Capital (C)**                                 | Valor inicial aplicado em um investimento ou utilizado em uma operação financeira.                                             |
+| **Juros (J)**                                   | Valor pago ou recebido pela utilização de um capital durante determinado período.                                              |
+| **Taxa de Juros (i)**                           | Percentual aplicado sobre o capital para calcular os juros.                                                                    |
+| **Montante (M)**                                | Valor total acumulado ao final de uma operação financeira, incluindo capital e juros.                                          |
+| **Juros Simples**                               | Regime em que os juros são calculados apenas sobre o capital inicial.                                                          |
+| **Juros Compostos**                             | Regime em que os juros incidem sobre o capital e sobre os juros acumulados anteriormente.                                      |
+| **Fluxo de Caixa**                              | Controle das entradas e saídas de dinheiro durante um período.                                                                 |
+| **Orçamento Financeiro**                        | Planejamento que organiza receitas e despesas para atingir objetivos financeiros.                                              |
+| **Reserva de Emergência**                       | Valor destinado a cobrir imprevistos financeiros, geralmente aplicado em investimentos com alta liquidez.                      |
+| **Endividamento**                               | Relação entre as dívidas assumidas e a capacidade financeira de pagamento.                                                     |
+| **Liquidez**                                    | Facilidade e rapidez com que um investimento pode ser convertido em dinheiro.                                                  |
+| **Liquidez Diária**                             | Possibilidade de resgatar um investimento a qualquer momento sem perder a rentabilidade contratada.                            |
+| **FGC (Fundo Garantidor de Créditos)**          | Entidade que protege investidores em caso de falência de instituições financeiras participantes, até os limites estabelecidos. |
+| **CDB (Certificado de Depósito Bancário)**      | Título de renda fixa emitido por bancos para captar recursos.                                                                  |
+| **LCI (Letra de Crédito Imobiliário)**          | Investimento de renda fixa destinado ao financiamento do setor imobiliário.                                                    |
+| **LCA (Letra de Crédito do Agronegócio)**       | Investimento de renda fixa destinado ao financiamento do agronegócio.                                                          |
+| **Tesouro Direto**                              | Programa do Governo Federal que permite a compra de títulos públicos por pessoas físicas.                                      |
+| **CDI (Certificado de Depósito Interbancário)** | Taxa de referência utilizada em operações entre bancos e em investimentos de renda fixa.                                       |
+| **Taxa Selic**                                  | Taxa básica de juros da economia brasileira definida pelo Banco Central.                                                       |
+| **IPCA**                                        | Índice oficial que mede a inflação no Brasil.                                                                                  |
+| **Inflação**                                    | Aumento generalizado dos preços de bens e serviços ao longo do tempo.                                                          |
+| **Renda Fixa**                                  | Modalidade de investimento com regras de rentabilidade previamente definidas.                                                  |
+| **Renda Variável**                              | Modalidade de investimento cuja rentabilidade pode variar de acordo com o mercado.                                             |
+| **Ações**                                       | Pequenas parcelas do capital de uma empresa negociadas na Bolsa de Valores.                                                    |
+| **Dividendos**                                  | Parte dos lucros distribuída pelas empresas aos seus acionistas.                                                               |
+| **FII (Fundo de Investimento Imobiliário)**     | Fundo que investe em empreendimentos ou ativos ligados ao mercado imobiliário.                                                 |
+| **ETF (Exchange Traded Fund)**                  | Fundo negociado em Bolsa que busca replicar o desempenho de um índice de mercado.                                              |
+| **BDR (Brazilian Depositary Receipt)**          | Certificado negociado no Brasil que representa ações de empresas estrangeiras.                                                 |
+| **Ibovespa**                                    | Principal índice da Bolsa de Valores brasileira, representando o desempenho médio das ações mais negociadas.                   |
+| **Rating**                                      | Classificação de risco atribuída por agências especializadas para avaliar a capacidade de pagamento de um emissor.             |
+| **Emissor**                                     | Instituição responsável por criar e oferecer um título financeiro ao mercado.                                                  |
+| **Distribuidor**                                | Corretora ou plataforma que disponibiliza os investimentos aos clientes.                                                       |
+| **Sistema Financeiro Nacional (SFN)**           | Conjunto de instituições e normas que regulam o mercado financeiro brasileiro.                                                 |
+| **Banco Central (BACEN)**                       | Órgão responsável pela política monetária e supervisão do sistema financeiro nacional.                                         |
+| **Método Cornell**                              | Técnica de anotações que organiza o conteúdo em notas, palavras-chave e resumo.                                                |
+| **Técnica Feynman**                             | Método de aprendizagem baseado em explicar conceitos complexos utilizando linguagem simples.                                   |
+| **Mapa Mental**                                 | Ferramenta visual que organiza informações por meio de conexões entre conceitos.                                               |
+
 
 ##Prompts Reutilizáveis para Revisão
 Explique os principais conceitos de educação financeira para iniciantes utilizando exemplos práticos do dia a dia.
