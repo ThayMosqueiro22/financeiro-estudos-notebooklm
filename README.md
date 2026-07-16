@@ -29,7 +29,7 @@ https://www.gov.br/investidor/pt-br/investir/como-investir/conheca-o-mercado-de-
 https://www.suno.com.br/artigos/endividamento/
 https://makrosystem.com.br/blog/contabilidade-basica/?srsltid=AfmBOooX5L1Pi9JP1DCekl_0jonayEY-L3gZdduO9FYpSKHXdkT5IY83
 
-##Prompts
+## Prompts
 
 Prompt: Regra 50-30-20 no Planejamento Financeiro
 Pergunta Estratégica
@@ -44,39 +44,39 @@ Resposta Obtida (Resumo)
 
 A regra 50-30-20 sugere dividir a renda líquida mensal em três categorias:
 
-#50% – Gastos Essenciais
+# 50% – Gastos Essenciais
 Moradia
 Alimentação
 Transporte
 Saúde
 Contas básicas
 
-#30% – Estilo de Vida e Gastos Variáveis
+# 30% – Estilo de Vida e Gastos Variáveis
 Lazer
 Assinaturas
 Viagens
 Compras não essenciais
 
-#20% – Investimentos e Quitação de Dívidas
+# 20% – Investimentos e Quitação de Dívidas
 Reserva de emergência
 Investimentos de longo prazo
 Pagamento de dívidas com juros elevados
 
-#Principais Recomendações
+# Principais Recomendações
 Registrar todas as despesas.
 Diferenciar necessidades de desejos.
 Reduzir custos fixos quando necessário.
 Criar metas financeiras progressivas.
 Buscar aumento de renda para ampliar a capacidade de investimento.
 
-#Referências Identificadas
+# Referências Identificadas
 Educação Financeira Pessoal.
 Planejamento Orçamentário.
 Reserva de Emergência.
 Juros Compostos.
 Controle de Fluxo de Caixa.
 
-##Variações de Prompt tastada
+## Variações de Prompt tastada
 
 Como adaptar a regra 50-30-20 para pessoas com renda variável?
 
@@ -98,7 +98,7 @@ Resposta Obtida (Resumo)
 
 A IA organizou os conceitos em quatro grandes grupos:
 
-#Matemática Financeira
+# Matemática Financeira
 Capital
 Juros Simples
 Juros Compostos
@@ -106,20 +106,20 @@ Taxa de Juros
 Montante
 Valor Presente e Valor Futuro
 
-#Gestão Financeira Pessoal
+# Gestão Financeira Pessoal
 Orçamento
 Fluxo de Caixa
 Reserva de Emergência
 Planejamento Financeiro
 
-#Contabilidade Básica
+# Contabilidade Básica
 Ativo
 Passivo
 Patrimônio Líquido
 Balanço Patrimonial
 Demonstração do Resultado do Exercício (DRE)
 
-#Sistema Financeiro e Crédito
+# Sistema Financeiro e Crédito
 Sistema Financeiro Nacional (SFN)
 Mercado Monetário
 Mercado de Crédito
@@ -128,18 +128,18 @@ Mercado Cambial
 Spread Bancário
 Endividamento
 
-#Referências Identificadas
+# Referências Identificadas
 Matemática Financeira.
 Contabilidade Básica.
 Educação Financeira.
 Sistema Financeiro Nacional.
 Mercado Financeiro Brasileiro.
 
-##Variações de Prompt Testadas
+## Variações de Prompt Testadas
 
 Organize os principais conceitos financeiros em ordem de aprendizado.
 
-##Dificuldade Encontradas(Troubleshooting)
+## Dificuldade Encontradas(Troubleshooting)
 
 Houve necessidade de separar conteúdos de finanças pessoais, contabilidade e mercado financeiro para evitar excesso de informação.
 
@@ -155,7 +155,7 @@ Controle do endividamento.
 
 O objetivo final é alcançar estabilidade financeira, segurança diante de imprevistos e independência financeira no longo prazo.
 
-##Glossário de Conceitos 
+## Glossário de Conceitos 
 
 | Termo                                           | Definição                                                                                                                      |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -201,7 +201,7 @@ O objetivo final é alcançar estabilidade financeira, segurança diante de impr
 | **Mapa Mental**                                 | Ferramenta visual que organiza informações por meio de conexões entre conceitos.                                               |
 
 
-##Prompts Reutilizáveis para Revisão
+## Prompts Reutilizáveis para Revisão
 
 Explique os principais conceitos de educação financeira para iniciantes utilizando exemplos práticos do dia a dia.
 
